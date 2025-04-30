@@ -65,3 +65,16 @@ This project is a fully functional UNIX-like shell implemented in **C**. It repl
 Use the following command to compile the shell:
 ```bash
 gcc -o myshell main.c
+```
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m "Add feature"`).
+4. Push to your fork (`git push origin feature-branch`).
+5. Open a pull request.
+
+Please ensure your code follows the project's coding style and includes appropriate comments.
